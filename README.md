@@ -2,7 +2,6 @@
 
 Projeto de Laboratórios de Informática II (1º ano - 2º sem)
 
-Authors:
 
 a93204 José João Cardoso Gonçalves
 
